@@ -8,6 +8,7 @@ class Circle
   end
 
   :hello
+  # hello
   
   def area 
     return Math::PI * radius ** 2

@@ -6,8 +6,6 @@ class Circle
     @x = x
     @y = y
   end
-
-  # hello 
   
   def area 
     return Math::PI * radius ** 2
